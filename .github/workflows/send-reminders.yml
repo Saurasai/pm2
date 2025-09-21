@@ -1,0 +1,41 @@
+name: Send Scheduled Post Reminders
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Run every 15 minutes
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  send-reminders:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run reminder script
+      id: script
+      env:
+        DB_PATH: data/users.db
+      run: python .github/scripts/send_reminders.py
+    - name: Send reminder emails
+      if: steps.script.outputs.recipients
+      uses: dawidd6/action-send-mail@v4
+      with:
+        server_address: ${{ secrets.MAIL_SERVER || 'smtp.gmail.com' }}
+        server_port: ${{ secrets.MAIL_PORT || 587 }}
+        username: ${{ secrets.MAIL_USERNAME }}
+        password: ${{ secrets.MAIL_PASSWORD }}
+        subject: "Reminder: Your scheduled post is approaching!"
+        to: ${{ steps.script.outputs.recipients }}
+        from: ${{ secrets.MAIL_FROM }}
+        body: file://email_bodies.txt
+        secure: true
+        ignore_cert: true
+        convert_markdown: true
