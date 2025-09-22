@@ -19804,3 +19804,299 @@ AttributeError: module 'bcrypt' has no attribute '__about__'
 2025-09-22 03:43:09 - __main__ - DEBUG - Main UI rendered successfully
 2025-09-22 03:43:09 - __main__ - DEBUG - Main UI rendered successfully
 2025-09-22 03:43:09 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:39 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:39 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:39 - db - INFO - Initializing database
+2025-09-22 04:23:39 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:39 - db - INFO - Migrating database schema
+2025-09-22 04:23:39 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:39 - ui - INFO - Rendering main UI
+2025-09-22 04:23:39 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:39 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:39 - ui - WARNING - Topic input is empty
+2025-09-22 04:23:39 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:39 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:39 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:39 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:48 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:48 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:48 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:48 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:48 - db - INFO - Initializing database
+2025-09-22 04:23:48 - db - INFO - Initializing database
+2025-09-22 04:23:48 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:48 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:48 - db - INFO - Migrating database schema
+2025-09-22 04:23:48 - db - INFO - Migrating database schema
+2025-09-22 04:23:48 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:48 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:48 - ui - INFO - Rendering main UI
+2025-09-22 04:23:48 - ui - INFO - Rendering main UI
+2025-09-22 04:23:48 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:48 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:48 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:48 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:48 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:48 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:48 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:48 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:48 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:48 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:48 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:48 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:49 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:49 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:49 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:49 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:49 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:49 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:49 - db - INFO - Initializing database
+2025-09-22 04:23:49 - db - INFO - Initializing database
+2025-09-22 04:23:49 - db - INFO - Initializing database
+2025-09-22 04:23:49 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:49 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:49 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:49 - db - INFO - Migrating database schema
+2025-09-22 04:23:49 - db - INFO - Migrating database schema
+2025-09-22 04:23:49 - db - INFO - Migrating database schema
+2025-09-22 04:23:49 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:49 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:49 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:49 - ui - INFO - Rendering main UI
+2025-09-22 04:23:49 - ui - INFO - Rendering main UI
+2025-09-22 04:23:49 - ui - INFO - Rendering main UI
+2025-09-22 04:23:49 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:49 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:49 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:49 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:49 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:49 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:49 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:49 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:49 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:49 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for twitter
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for linkedin
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:51 - ui - DEBUG - No drafts available for instagram
+2025-09-22 04:23:51 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:51 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:51 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:51 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - INFO - Starting post_muse application
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - __main__ - DEBUG - Streamlit page configuration set
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - INFO - Initializing database
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - DEBUG - Database tables created successfully with admin account
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - db - INFO - Migrating database schema
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - __main__ - INFO - Database initialized successfully
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering main UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - INFO - Rendering login/register UI
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - DEBUG - Free user API usage: 0/5
+2025-09-22 04:23:51 - ui - INFO - Generating drafts for all platforms
+2025-09-22 04:23:51 - ui - INFO - Generating drafts for all platforms
+2025-09-22 04:23:51 - ui - INFO - Generating drafts for all platforms
+2025-09-22 04:23:51 - ui - INFO - Generating drafts for all platforms
+2025-09-22 04:23:51 - ui - INFO - Generating drafts for all platforms
+2025-09-22 04:23:51 - asyncio - DEBUG - Using selector: SelectSelector
+2025-09-22 04:23:51 - asyncio - DEBUG - Using selector: SelectSelector
+2025-09-22 04:23:51 - asyncio - DEBUG - Using selector: SelectSelector
+2025-09-22 04:23:51 - asyncio - DEBUG - Using selector: SelectSelector
+2025-09-22 04:23:51 - asyncio - DEBUG - Using selector: SelectSelector
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: twitter
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: twitter
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: twitter
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: twitter
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: twitter
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: linkedin
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: linkedin
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: linkedin
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: linkedin
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: linkedin
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: instagram
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: instagram
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: instagram
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: instagram
+2025-09-22 04:23:51 - api - INFO - Generating drafts for platform: instagram
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:51 - api - INFO - Generating content with Gemini API
+2025-09-22 04:23:52 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:52 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:52 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:52 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:52 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:52 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:52 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:52 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:52 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:52 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:52 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:52 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:52 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:52 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:52 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:52 - api - DEBUG - Generated 3 drafts for twitter
+2025-09-22 04:23:52 - api - DEBUG - Generated 3 drafts for twitter
+2025-09-22 04:23:52 - api - DEBUG - Generated 3 drafts for twitter
+2025-09-22 04:23:52 - api - DEBUG - Generated 3 drafts for twitter
+2025-09-22 04:23:52 - api - DEBUG - Generated 3 drafts for twitter
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for linkedin
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for linkedin
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for linkedin
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for linkedin
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for linkedin
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - DEBUG - Content generated successfully
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - INFO - Splitting generated drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Split into 3 drafts
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for instagram
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for instagram
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for instagram
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for instagram
+2025-09-22 04:23:53 - api - DEBUG - Generated 3 drafts for instagram
+2025-09-22 04:23:53 - ui - DEBUG - Drafts generated successfully for all platforms
+2025-09-22 04:23:53 - ui - DEBUG - Drafts generated successfully for all platforms
+2025-09-22 04:23:53 - ui - DEBUG - Drafts generated successfully for all platforms
+2025-09-22 04:23:53 - ui - DEBUG - Drafts generated successfully for all platforms
+2025-09-22 04:23:53 - ui - DEBUG - Drafts generated successfully for all platforms
+2025-09-22 04:23:53 - ui - DEBUG - Incremented free user API call count: 1
+2025-09-22 04:23:53 - ui - DEBUG - Incremented free user API call count: 1
+2025-09-22 04:23:53 - ui - DEBUG - Incremented free user API call count: 1
+2025-09-22 04:23:53 - ui - DEBUG - Incremented free user API call count: 1
+2025-09-22 04:23:53 - ui - DEBUG - Incremented free user API call count: 1
+2025-09-22 04:23:53 - ui - DEBUG - Download button for drafts CSV rendered
+2025-09-22 04:23:53 - ui - DEBUG - Download button for drafts CSV rendered
+2025-09-22 04:23:53 - ui - DEBUG - Download button for drafts CSV rendered
+2025-09-22 04:23:53 - ui - DEBUG - Download button for drafts CSV rendered
+2025-09-22 04:23:53 - ui - DEBUG - Download button for drafts CSV rendered
+2025-09-22 04:23:53 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:53 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:53 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:53 - __main__ - DEBUG - Main UI rendered successfully
+2025-09-22 04:23:53 - __main__ - DEBUG - Main UI rendered successfully
