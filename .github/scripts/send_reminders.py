@@ -3,23 +3,49 @@ import sys
 import os
 from datetime import datetime
 import pytz
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from db import get_reminder_posts, mark_reminder_sent, get_all_users
+
+# Debug: Print environment details
+print(f"Current working directory: {os.getcwd()}")
+project_root = os.path.normpath(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+print(f"Project root: {project_root}")
+try:
+    print(f"Files in root: {os.listdir(project_root)}")
+except FileNotFoundError:
+    print(f"Error: Project root {project_root} not found", file=sys.stderr)
+    sys.exit(1)
+
+# Add project root to Python path
+sys.path.insert(0, project_root)
+print(f"Python path: {sys.path}")
+
+try:
+    from db import get_reminder_posts, mark_reminder_sent, get_all_users
+except ImportError as e:
+    print(f"Failed to import db module: {e}", file=sys.stderr)
+    sys.exit(1)
 
 IST = pytz.timezone("Asia/Kolkata")
 
 def main():
-    due_posts = get_reminder_posts()
-    if not due_posts:
-        print("No due reminders.")
-        return
+    try:
+        due_posts = get_reminder_posts()
+        if not due_posts:
+            print("No due reminders.")
+            return
+    except Exception as e:
+        print(f"Error fetching reminder posts: {e}", file=sys.stderr)
+        sys.exit(1)
 
     users = {email: True for email, _, _ in get_all_users()}
     recipients = []
     email_bodies = []
 
-    with open(".github/emails/reminder_body.md", "r") as f:
-        template = f.read()
+    try:
+        with open(os.path.join(".github", "emails", "reminder_body.md"), "r") as f:
+            template = f.read()
+    except FileNotFoundError:
+        print("Error: reminder_body.md not found", file=sys.stderr)
+        sys.exit(1)
 
     for user_email, platform, content, schedule_time, reminder_minutes, post_id in due_posts:
         if user_email not in users:
